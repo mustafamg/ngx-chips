@@ -57,7 +57,7 @@ export class Home {
 
     public options = {
         readonly: undefined,
-        placeholder: '+ Tag'
+        placeholder: '+'
     };
 
     public onAdd(item) {

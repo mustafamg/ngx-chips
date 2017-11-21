@@ -2,8 +2,8 @@
 ** constants and default values for <tag-input>
  */
 
-export const PLACEHOLDER = '+ Tag';
-export const SECONDARY_PLACEHOLDER = 'Enter a new tag';
+export const PLACEHOLDER = '+';
+export const SECONDARY_PLACEHOLDER = 'Select';
 export const KEYDOWN = 'keydown';
 export const KEYUP = 'keyup';
 export const FOCUS = 'focus';
